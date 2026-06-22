@@ -59,7 +59,7 @@
 <br clear="both">
 
 <div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/andikatahang" target="_blank">
+  <a href="https://www.linkedin.com/in/andikatahang" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/andikatahangg?igsh=cGd0am0zYjk5d2sz&utm_source=qr" target="_blank">
