@@ -1,0 +1,31 @@
+name: Generate Languages
+
+on:
+  schedule:
+    - cron: '0 1 * * 0'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: generate languages.svg
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: ${{ github.repository_owner }}
+          layout: compact
+
+      - name: push languages.svg to languages-output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: languages-output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
