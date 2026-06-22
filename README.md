@@ -56,10 +56,10 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andikatahang&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andikatahang&layout=compact&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=andikatahang&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=30&date_format=j/n%5B/Y%5D&order=3&user=andikatahang" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=andikatahang&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/andikatahang/andikatahang/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/andikatahang/andikatahang/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=andikatahang&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=30&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/andikatahang/andikatahang/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
 ###
