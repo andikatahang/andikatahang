@@ -28,11 +28,11 @@
 ## 👨‍💻 Tentang Aku
 
 ```yaml
-name       : "Nama Kamu"
+name       : "Andika"
 location   : "Yogyakarta, Indonesia 🌴"
 role       : "Full Stack Developer"
-company    : "Nama Perusahaan / Freelance"
-education  : "Teknik Informatika — Universitas XYZ"
+company    : ""
+education  : ""
 
 interests  :
   - Web Development
