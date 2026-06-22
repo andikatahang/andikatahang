@@ -16,16 +16,18 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: generate languages.svg
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: ${{ github.repository_owner }}
-          layout: compact
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: push languages.svg to languages-output branch
+      - name: Generate languages
+        run: |
+          mkdir -p dist
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs?username=${{ github.repository_owner }}&layout=compact&theme=github_dark" -o dist/languages.svg
+
+      - name: Push to languages-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: languages-output
-          build_dir: .
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
