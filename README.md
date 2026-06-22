@@ -9,7 +9,7 @@
 <br/><br/>
 
 <!-- ═══════ TYPING ANIMATION ═══════ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=580&lines=Halo!+Saya+Andika+%F0%9F%91%8B;Mahasiswa+PSI+%40+UII+Yogyakarta+%F0%9F%8E%93;Building+FairCut+%E2%80%94+HRIS+Platform;Passionate+di+System+Design+%26+Dev;Always+Learning%2C+Never+Stop+Growing+%F0%9F%9A%80" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=580&lines=Halo!+Saya+Andika+%F0%9F%91%8B;Mahasiswa+UII+Yogyakarta+%F0%9F%8E%93;Building+FairCut+%E2%80%94+HRIS+Platform;Passionate+di+System+Design+%26+Dev;Always+Learning%2C+Never+Stop+Growing+%F0%9F%9A%80" alt="Typing Animation"/>
 
 </div>
 
