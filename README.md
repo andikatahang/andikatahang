@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Andika, an undergraduate student at UII Yogyakarta. I love coding, system design, and building things that actually work. Always learning, always coding.</p>
+<p data-importer="text" align="left">I'm Andika, an undergraduate student at UII Yogyakarta.</p>
 
 ###
 
